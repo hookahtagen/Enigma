@@ -7,7 +7,7 @@ The machine uses rotors, which could be chosen from a list of rotors, or randoml
 You can also choose the reflector and the plugboard, and provide an initial rotor offset.
 
 ### Alread implemented
-General:
+General:<br>
     + Enciphering messages <br>
     + Choosing rotors from a list<br>
     + Choosing the number of rotors<br>
