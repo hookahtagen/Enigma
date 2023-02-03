@@ -1,5 +1,6 @@
 # Enigma
-Enigma Machine Simulator
+**Enigma Machine Simulator**<br>
+![Example picture of an enigma machine](https://assets.deutschlandfunk.de/FILE_b9b15233fb5943516035bcfab5cd9e5b/1920x1080.jpg)
 
 ## Description
 This is a simple enigma machine simulator. It can be used to encrypt and decrypt messages.<br>
