@@ -9,17 +9,17 @@ You can also choose the reflector and the plugboard, and provide an initial roto
 ### Alread implemented
 General:
     - Enciphering messages <br>
-    - Choosing rotors from a list
-    - Choosing the number of rotors
-    - Choosing the reflector 
-    - Choosing the plugboard
-    - Choosing the initial rotor offset
-    - Choosing the message to be enciphered or deciphered
-    - Getting the notches of the rotors (for the rotor turnover)
+    - Choosing rotors from a list<br>
+    - Choosing the number of rotors<br>
+    - Choosing the reflector <br>
+    - Choosing the plugboard<br>
+    - Choosing the initial rotor offset<br>
+    - Choosing the message to be enciphered or deciphered<br>
+    - Getting the notches of the rotors (for the rotor turnover)<br>
     
 Special:
-    - Creating a set of random rotors and save it to a txt file
+    - Creating a set of random rotors and save it to a txt file<br>
 
 ### Planned
 General:
-    - Deciphering messages
+    - Deciphering messages<br>
