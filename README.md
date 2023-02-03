@@ -17,7 +17,7 @@ General:
     + Choosing the message to be enciphered or deciphered<br>
     + Getting the notches of the rotors (for the rotor turnover)<br>
     
-Special:
+Special:<br>
     - Creating a set of random rotors and save it to a txt file<br>
 
 ### Planned
