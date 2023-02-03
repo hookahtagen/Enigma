@@ -21,5 +21,5 @@ Special:<br>
     - Creating a set of random rotors and save it to a txt file<br>
 
 ### Planned
-General:
+General:<br>
     - Deciphering messages<br>
